@@ -43,5 +43,5 @@ struct UserView: View {
 }
 
 #Preview {
-    UserView(user: User(name: "Allen", email: "allen@gmail.com", address: "369 Avon Rd", age: 28))
+    UserView(user: User(name: "MD", email: "MD@gmail.com", address: "369 Avon Rd", age: 28))
 }
